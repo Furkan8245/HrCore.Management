@@ -1,0 +1,294 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\furka\\source\\repos\\HrCore.Management\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{61430C74-1B35-47F3-9DBA-B6D7A18C18C4}|Infrastructure\\Infrastructure.csproj|c:\\users\\furka\\source\\repos\\hrcore.management\\infrastructure\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61430C74-1B35-47F3-9DBA-B6D7A18C18C4}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63D5954F-4210-4092-9016-E963FA3E8299}|Application\\Application.csproj|c:\\users\\furka\\source\\repos\\hrcore.management\\application\\services\\employeemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63D5954F-4210-4092-9016-E963FA3E8299}|Application\\Application.csproj|solutionrelative:application\\services\\employeemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A81D3B3F-ABEF-4680-A45F-996A19C61BA0}|Domain\\Domain.csproj|c:\\users\\furka\\source\\repos\\hrcore.management\\domain\\repositories\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A81D3B3F-ABEF-4680-A45F-996A19C61BA0}|Domain\\Domain.csproj|solutionrelative:domain\\repositories\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61430C74-1B35-47F3-9DBA-B6D7A18C18C4}|Infrastructure\\Infrastructure.csproj|c:\\users\\furka\\source\\repos\\hrcore.management\\infrastructure\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61430C74-1B35-47F3-9DBA-B6D7A18C18C4}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63D5954F-4210-4092-9016-E963FA3E8299}|Application\\Application.csproj|c:\\users\\furka\\source\\repos\\hrcore.management\\application\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63D5954F-4210-4092-9016-E963FA3E8299}|Application\\Application.csproj|solutionrelative:application\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63D5954F-4210-4092-9016-E963FA3E8299}|Application\\Application.csproj|c:\\users\\furka\\source\\repos\\hrcore.management\\application\\interfaces\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63D5954F-4210-4092-9016-E963FA3E8299}|Application\\Application.csproj|solutionrelative:application\\interfaces\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63D5954F-4210-4092-9016-E963FA3E8299}|Application\\Application.csproj|c:\\users\\furka\\source\\repos\\hrcore.management\\application\\dtos\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63D5954F-4210-4092-9016-E963FA3E8299}|Application\\Application.csproj|solutionrelative:application\\dtos\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63D5954F-4210-4092-9016-E963FA3E8299}|Application\\Application.csproj|c:\\users\\furka\\source\\repos\\hrcore.management\\application\\validators\\createemployeerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63D5954F-4210-4092-9016-E963FA3E8299}|Application\\Application.csproj|solutionrelative:application\\validators\\createemployeerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63D5954F-4210-4092-9016-E963FA3E8299}|Application\\Application.csproj|c:\\users\\furka\\source\\repos\\hrcore.management\\application\\validators\\employeevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63D5954F-4210-4092-9016-E963FA3E8299}|Application\\Application.csproj|solutionrelative:application\\validators\\employeevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7E073C7-51AB-4714-9361-263E1EF8F578}|WebAPI\\WebAPI.csproj|c:\\users\\furka\\source\\repos\\hrcore.management\\webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A7E073C7-51AB-4714-9361-263E1EF8F578}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7E073C7-51AB-4714-9361-263E1EF8F578}|WebAPI\\WebAPI.csproj|c:\\users\\furka\\source\\repos\\hrcore.management\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7E073C7-51AB-4714-9361-263E1EF8F578}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A81D3B3F-ABEF-4680-A45F-996A19C61BA0}|Domain\\Domain.csproj|c:\\users\\furka\\source\\repos\\hrcore.management\\domain\\entities\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A81D3B3F-ABEF-4680-A45F-996A19C61BA0}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A81D3B3F-ABEF-4680-A45F-996A19C61BA0}|Domain\\Domain.csproj|c:\\users\\furka\\source\\repos\\hrcore.management\\domain\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A81D3B3F-ABEF-4680-A45F-996A19C61BA0}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A81D3B3F-ABEF-4680-A45F-996A19C61BA0}|Domain\\Domain.csproj|c:\\users\\furka\\source\\repos\\hrcore.management\\domain\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A81D3B3F-ABEF-4680-A45F-996A19C61BA0}|Domain\\Domain.csproj|solutionrelative:domain\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61430C74-1B35-47F3-9DBA-B6D7A18C18C4}|Infrastructure\\Infrastructure.csproj|c:\\users\\furka\\source\\repos\\hrcore.management\\infrastructure\\context\\migrations\\20260422160942_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61430C74-1B35-47F3-9DBA-B6D7A18C18C4}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\context\\migrations\\20260422160942_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\furka\\source\\repos\\HrCore.Management\\Infrastructure\\Repositories\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\furka\\source\\repos\\HrCore.Management\\Infrastructure\\Repositories\\GenericRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repositories\\GenericRepository.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T14:46:33.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\furka\\source\\repos\\HrCore.Management\\Domain\\Repositories\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\Repositories\\IGenericRepository.cs",
+              "ToolTip": "C:\\Users\\furka\\source\\repos\\HrCore.Management\\Domain\\Repositories\\IGenericRepository.cs",
+              "RelativeToolTip": "Domain\\Repositories\\IGenericRepository.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T14:44:39.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeManager.cs",
+              "DocumentMoniker": "C:\\Users\\furka\\source\\repos\\HrCore.Management\\Application\\Services\\EmployeeManager.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\EmployeeManager.cs",
+              "ToolTip": "C:\\Users\\furka\\source\\repos\\HrCore.Management\\Application\\Services\\EmployeeManager.cs",
+              "RelativeToolTip": "Application\\Services\\EmployeeManager.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAwwBQAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T14:28:46.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\furka\\source\\repos\\HrCore.Management\\Application\\Mapping\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "Application\\Mapping\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\furka\\source\\repos\\HrCore.Management\\Application\\Mapping\\MappingProfile.cs",
+              "RelativeToolTip": "Application\\Mapping\\MappingProfile.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAADwvxAAAABoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T14:25:26.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IEmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\furka\\source\\repos\\HrCore.Management\\Application\\Interfaces\\IEmployeeService.cs",
+              "RelativeDocumentMoniker": "Application\\Interfaces\\IEmployeeService.cs",
+              "ToolTip": "C:\\Users\\furka\\source\\repos\\HrCore.Management\\Application\\Interfaces\\IEmployeeService.cs",
+              "RelativeToolTip": "Application\\Interfaces\\IEmployeeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T14:22:05.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EmployeeDto.cs",
+              "DocumentMoniker": "C:\\Users\\furka\\source\\repos\\HrCore.Management\\Application\\DTOs\\EmployeeDto.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\EmployeeDto.cs",
+              "ToolTip": "C:\\Users\\furka\\source\\repos\\HrCore.Management\\Application\\DTOs\\EmployeeDto.cs",
+              "RelativeToolTip": "Application\\DTOs\\EmployeeDto.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAYwA8AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T14:19:40.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EmployeeValidator.cs",
+              "DocumentMoniker": "C:\\Users\\furka\\source\\repos\\HrCore.Management\\Application\\Validators\\EmployeeValidator.cs",
+              "RelativeDocumentMoniker": "Application\\Validators\\EmployeeValidator.cs",
+              "ToolTip": "C:\\Users\\furka\\source\\repos\\HrCore.Management\\Application\\Validators\\EmployeeValidator.cs",
+              "RelativeToolTip": "Application\\Validators\\EmployeeValidator.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAIBJwBUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T16:32:39.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CreateEmployeeRequest.cs",
+              "DocumentMoniker": "C:\\Users\\furka\\source\\repos\\HrCore.Management\\Application\\Validators\\CreateEmployeeRequest.cs",
+              "RelativeDocumentMoniker": "Application\\Validators\\CreateEmployeeRequest.cs",
+              "ToolTip": "C:\\Users\\furka\\source\\repos\\HrCore.Management\\Application\\Validators\\CreateEmployeeRequest.cs",
+              "RelativeToolTip": "Application\\Validators\\CreateEmployeeRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T16:13:39.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20260422160942_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\furka\\source\\repos\\HrCore.Management\\Infrastructure\\Context\\Migrations\\20260422160942_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Context\\Migrations\\20260422160942_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\furka\\source\\repos\\HrCore.Management\\Infrastructure\\Context\\Migrations\\20260422160942_InitialCreate.cs",
+              "RelativeToolTip": "Infrastructure\\Context\\Migrations\\20260422160942_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T16:09:42.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\furka\\source\\repos\\HrCore.Management\\WebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\furka\\source\\repos\\HrCore.Management\\WebAPI\\Program.cs",
+              "RelativeToolTip": "WebAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T16:01:38.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\furka\\source\\repos\\HrCore.Management\\WebAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "WebAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\furka\\source\\repos\\HrCore.Management\\WebAPI\\appsettings.json",
+              "RelativeToolTip": "WebAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-22T16:01:03.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\furka\\source\\repos\\HrCore.Management\\Infrastructure\\Context\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Context\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\furka\\source\\repos\\HrCore.Management\\Infrastructure\\Context\\AppDbContext.cs",
+              "RelativeToolTip": "Infrastructure\\Context\\AppDbContext.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAA4AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T15:20:17.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\furka\\source\\repos\\HrCore.Management\\Domain\\Entities\\Employee.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Employee.cs",
+              "ToolTip": "C:\\Users\\furka\\source\\repos\\HrCore.Management\\Domain\\Entities\\Employee.cs",
+              "RelativeToolTip": "Domain\\Entities\\Employee.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAEBUwBYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T15:14:44.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\furka\\source\\repos\\HrCore.Management\\Domain\\Entities\\Department.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Department.cs",
+              "ToolTip": "C:\\Users\\furka\\source\\repos\\HrCore.Management\\Domain\\Entities\\Department.cs",
+              "RelativeToolTip": "Domain\\Entities\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T15:13:35.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\furka\\source\\repos\\HrCore.Management\\Domain\\Common\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Domain\\Common\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\furka\\source\\repos\\HrCore.Management\\Domain\\Common\\BaseEntity.cs",
+              "RelativeToolTip": "Domain\\Common\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T14:45:40.6Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
