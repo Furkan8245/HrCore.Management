@@ -118,3 +118,14 @@ C:\Users\furka\source\repos\HrCore.Management\WebAPI\obj\Debug\net8.0\refint\Web
 C:\Users\furka\source\repos\HrCore.Management\WebAPI\obj\Debug\net8.0\WebAPI.pdb
 C:\Users\furka\source\repos\HrCore.Management\WebAPI\obj\Debug\net8.0\WebAPI.genruntimeconfig.cache
 C:\Users\furka\source\repos\HrCore.Management\WebAPI\obj\Debug\net8.0\ref\WebAPI.dll
+C:\Users\furka\source\repos\HrCore.Management\WebAPI\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\furka\source\repos\HrCore.Management\WebAPI\bin\Debug\net8.0\FluentValidation.dll
+C:\Users\furka\source\repos\HrCore.Management\WebAPI\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\furka\source\repos\HrCore.Management\WebAPI\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\furka\source\repos\HrCore.Management\WebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\furka\source\repos\HrCore.Management\WebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\furka\source\repos\HrCore.Management\WebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\furka\source\repos\HrCore.Management\WebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\furka\source\repos\HrCore.Management\WebAPI\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\furka\source\repos\HrCore.Management\WebAPI\obj\Debug\net8.0\WebAPI.sourcelink.json
+C:\Users\furka\source\repos\HrCore.Management\WebAPI\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
