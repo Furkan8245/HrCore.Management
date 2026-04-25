@@ -1,4 +1,5 @@
 ﻿using Application.DTOs;
+using Application.Validators;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -11,5 +12,6 @@ namespace Application.Interfaces
     {
         Task<IEnumerable<EmployeeDto>> GetAllEmployeesAsync();
         Task<EmployeeDto?> GetEmployeeByIdAsync(int id);
+        Task<int> CreateEmployeeAsync(CreateEmployeeRequest request);
     }
 }

@@ -1,4 +1,5 @@
 ﻿using Application.Interfaces;
+using Application.Validators;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
@@ -20,6 +21,12 @@ namespace WebAPI.Controllers
             var result = await employeeService.GetEmployeeByIdAsync(id);
             if (result == null) return NotFound();
             return Ok(result);  
+        }
+        [HttpPost]
+        public async Task<IActionResult> Create(CreateEmployeeRequest request)
+        {
+            var id = await employeeService.CreateEmployeeAsync(request);
+            return CreatedAtAction(nameof(GetById), new { id }, id);
         }
     }
 }
